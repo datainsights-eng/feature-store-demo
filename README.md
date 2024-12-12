@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [GitHub](https://github.com/yourusername)
+- **Ikram ZOUAOUI** - *Initial work* - [GitHub](ttps://github.com/ikrzme)
 
 ## 🙏 Acknowledgments
 
@@ -139,14 +139,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-- Project Link: [GitHub](https://github.com/yourusername/feature-store-demo)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Project Link: [GitHub](https://github.com/datainsights-eng/feature-store-demo)
+- LinkedIn: [Your Profile](https://www.linkedin.com/company/data-insights1)
 
 ## 📚 Additional Resources
 
-- [Blog Post](your-blog-post-link)
-- [Medium Article](your-medium-article-link)
-- [Technical Documentation](your-docs-link)
+- [Medium Article](https://medium.com/@datainsights17)
 
 ---
 
